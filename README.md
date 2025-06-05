@@ -19,18 +19,17 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```yaml
 name: Wan Na Aung
 located_in: Thailand
-current_job: DevOps Engineer & Full Stack Developer
+current_job: Full Stack Developer
 education: ["Self-Taught", "Open Source Contributor"]
-company: Freelancer
+company: "[Sabahna Co.ltd](https://sabahna.com/)"
 
 fields_of_interests: ["Web Development", "DevOps", "AI/ML", "Open Source"]
 technical_background: ["Full Stack Development", "Cloud Infrastructure", "CI/CD"]
-currently_learning: ["AI/ML", "Advanced DevOps", "Cloud Architecture"]
+currently_learning: ["Cyber Security", "AI/ML", "Advanced DevOps", "Cloud Architecture"]
 hobbies: ["Coding", "Problem Solving", "Escape Rooms", "Tech Blogging"]
 ```
 
@@ -106,17 +105,6 @@ hobbies: ["Coding", "Problem Solving", "Escape Rooms", "Tech Blogging"]
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/jinn091/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinn091&repo=project1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jinn091/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jinn091&repo=project2&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Let's Connect
@@ -145,13 +133,7 @@ hobbies: ["Coding", "Problem Solving", "Escape Rooms", "Tech Blogging"]
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jinn091/jinn091/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  ### Show some ❤️ by starring some of the repositories!
-  
+    
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 </div>
